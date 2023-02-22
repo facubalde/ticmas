@@ -1,0 +1,46 @@
+header {
+    /*color: white;*/
+    background-color:lightblue;
+    text-align: center;
+    top:0;
+    left: 0px;
+    right: 0px;
+    height: 150px;
+    position: relative;
+
+}
+
+.fotoperfil {
+    position: absolute;
+    top: 150px;
+}
+
+aside {
+    background-color: aquamarine;
+    height: 550px;
+    width: 200px;
+    position: absolute;
+}
+
+section {
+    position: relative;
+    left: 250px;
+    top: 0;
+}
+
+.experiencia {
+    position: relative;
+    left: 250px;
+    top: 0;
+}
+
+.habilidades {
+    position: relative;
+    left: 250px;
+    top: 500px;
+    
+}
+
+.personalinfo {
+    display: "none";
+}
